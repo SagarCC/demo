@@ -1,0 +1,3 @@
+Git 
+1.git init - makes an empty local git repository.
+2.git pull - gets the latest version of the repository.
